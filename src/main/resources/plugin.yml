@@ -1,0 +1,7 @@
+name: ElytraLobby
+version: 1.0
+main: net.elytrapvp.elytralobby.ElytraLobby
+api-version: 1.18
+authors: [ ElytraPvP ]
+description: Lobby plugin for ElytraPvP
+website: http://www.elytrapvp.net
